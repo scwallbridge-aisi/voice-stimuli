@@ -1,0 +1,156 @@
+[
+  {
+    "id": "George_hey-can-you-hear-me_take1",
+    "voice": "George",
+    "utterance": "Hey, can you hear me?",
+    "take": 1,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/George_hey-can-you-hear-me_take1.mp3"
+  },
+  {
+    "id": "George_hey-how-are-you_take1",
+    "voice": "George",
+    "utterance": "Hey, how are you?",
+    "take": 1,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/George_hey-how-are-you_take1.mp3"
+  },
+  {
+    "id": "George_hey-how-are-you_take2",
+    "voice": "George",
+    "utterance": "Hey, how are you?",
+    "take": 2,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/George_hey-how-are-you_take2.mp3"
+  },
+  {
+    "id": "George_hey-how-are-you_take3",
+    "voice": "George",
+    "utterance": "Hey, how are you?",
+    "take": 3,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/George_hey-how-are-you_take3.mp3"
+  },
+  {
+    "id": "George_just-reading-the-instructions-i_take1",
+    "voice": "George",
+    "utterance": "Just reading the instructions, I think I'm the interviewer for this chat.",
+    "take": 1,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/George_just-reading-the-instructions-i_take1.mp3"
+  },
+  {
+    "id": "Archer_hey-can-you-hear-me_take1",
+    "voice": "Archer",
+    "utterance": "Hey, can you hear me?",
+    "take": 1,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/Archer_hey-can-you-hear-me_take1.mp3"
+  },
+  {
+    "id": "Archer_hey-can-you-hear-me_take2",
+    "voice": "Archer",
+    "utterance": "Hey, can you hear me?",
+    "take": 2,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/Archer_hey-can-you-hear-me_take2.mp3"
+  },
+  {
+    "id": "Archer_hey-can-you-hear-me_take3",
+    "voice": "Archer",
+    "utterance": "Hey, can you hear me?",
+    "take": 3,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/Archer_hey-can-you-hear-me_take3.mp3"
+  },
+  {
+    "id": "Archer_hey-how-are-you_take1",
+    "voice": "Archer",
+    "utterance": "Hey, how are you?",
+    "take": 1,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/Archer_hey-how-are-you_take1.mp3"
+  },
+  {
+    "id": "Archer_hey-how-are-you_take2",
+    "voice": "Archer",
+    "utterance": "Hey, how are you?",
+    "take": 2,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/Archer_hey-how-are-you_take2.mp3"
+  },
+  {
+    "id": "Archer_hey-how-are-you_take3",
+    "voice": "Archer",
+    "utterance": "Hey, how are you?",
+    "take": 3,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/Archer_hey-how-are-you_take3.mp3"
+  },
+  {
+    "id": "Archer_just-reading-the-instructions-i_take1",
+    "voice": "Archer",
+    "utterance": "Just reading the instructions, I think I'm the interviewer for this chat.",
+    "take": 1,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/Archer_just-reading-the-instructions-i_take1.mp3"
+  },
+  {
+    "id": "Archer_just-reading-the-instructions-i_take2",
+    "voice": "Archer",
+    "utterance": "Just reading the instructions, I think I'm the interviewer for this chat.",
+    "take": 2,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/Archer_just-reading-the-instructions-i_take2.mp3"
+  },
+  {
+    "id": "Lucy_hey-can-you-hear-me_take1",
+    "voice": "Lucy",
+    "utterance": "Hey, can you hear me?",
+    "take": 1,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/Lucy_hey-can-you-hear-me_take1.mp3"
+  },
+  {
+    "id": "Lucy_hey-can-you-hear-me_take2",
+    "voice": "Lucy",
+    "utterance": "Hey, can you hear me?",
+    "take": 2,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/Lucy_hey-can-you-hear-me_take2.mp3"
+  },
+  {
+    "id": "Lucy_hey-can-you-hear-me_take3",
+    "voice": "Lucy",
+    "utterance": "Hey, can you hear me?",
+    "take": 3,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/Lucy_hey-can-you-hear-me_take3.mp3"
+  },
+  {
+    "id": "Lucy_hey-how-are-you_take1",
+    "voice": "Lucy",
+    "utterance": "Hey, how are you?",
+    "take": 1,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/Lucy_hey-how-are-you_take1.mp3"
+  },
+  {
+    "id": "Lucy_hey-how-are-you_take2",
+    "voice": "Lucy",
+    "utterance": "Hey, how are you?",
+    "take": 2,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/Lucy_hey-how-are-you_take2.mp3"
+  },
+  {
+    "id": "Lucy_hey-how-are-you_take3",
+    "voice": "Lucy",
+    "utterance": "Hey, how are you?",
+    "take": 3,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/Lucy_hey-how-are-you_take3.mp3"
+  },
+  {
+    "id": "Lucy_just-reading-the-instructions-i_take1",
+    "voice": "Lucy",
+    "utterance": "Just reading the instructions, I think I'm the interviewer for this chat.",
+    "take": 1,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/Lucy_just-reading-the-instructions-i_take1.mp3"
+  },
+  {
+    "id": "Lucy_just-reading-the-instructions-i_take2",
+    "voice": "Lucy",
+    "utterance": "Just reading the instructions, I think I'm the interviewer for this chat.",
+    "take": 2,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/Lucy_just-reading-the-instructions-i_take2.mp3"
+  },
+  {
+    "id": "Lucy_just-reading-the-instructions-i_take3",
+    "voice": "Lucy",
+    "utterance": "Just reading the instructions, I think I'm the interviewer for this chat.",
+    "take": 3,
+    "audioUrl": "https://scwallbridge-aisi.github.io/voice-stimuli/Lucy_just-reading-the-instructions-i_take3.mp3"
+  }
+]
